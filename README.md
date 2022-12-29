@@ -23,5 +23,5 @@ Alternatively you can use the arrow keys to move.
 
 ## Screenshots:
 
-![Countryside theme]("/assets/images/screenshot_cs.png")
-![City theme]("/assets/images/screenshot_city.png")
+![Countryside theme]("assets/images/screenshot_cs.png")
+![City theme]("assets/images/screenshot_city.png")

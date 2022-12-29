@@ -22,6 +22,7 @@ Alternatively you can use the arrow keys to move.
 Click [HERE](https://sapienzainteractivegraphicscourse.github.io/final-project-lorenzobianchi/) to play!
 
 ## Screenshots:
-
+#### Countryside theme
 ![Countryside theme](https://github.com/LorenzoBianchi98/Sonic-Run/blob/master/assets/images/screenshot_cs.png)
+#### City theme
 ![City theme](https://github.com/LorenzoBianchi98/Sonic-Run/blob/master/assets/images/screenshot_city.png)

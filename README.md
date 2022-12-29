@@ -19,9 +19,9 @@ The game is supported in most of the modern browsers. I recommend to run the gam
 
 Alternatively you can use the arrow keys to move.
 
-[PLAY IT NOW!](https://sapienzainteractivegraphicscourse.github.io/final-project-lorenzobianchi/)!
+[PLAY IT NOW!](https://sapienzainteractivegraphicscourse.github.io/final-project-lorenzobianchi/)
 
 ## Screenshots:
 
-![Countryside theme]("assets/images/screenshot_cs.png")
-![City theme]("assets/images/screenshot_city.png")
+![Countryside theme]("https://github.com/LorenzoBianchi98/Sonic-Run/blob/master/assets/images/screenshot_cs.png")
+![City theme]("https://github.com/LorenzoBianchi98/Sonic-Run/blob/master/assets/images/screenshot_city.png")

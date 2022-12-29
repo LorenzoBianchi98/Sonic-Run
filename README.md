@@ -10,12 +10,6 @@ The game is supported in most of the modern browsers. I recommend to run the gam
 
 ## How to play:
 
-### Link to play:
-
-You can play the game by clicking [HERE](https://sapienzainteractivegraphicscourse.github.io/final-project-lorenzobianchi/)!
-
-### Commands:
-
 |Key | Action|
 |----|--------|
 |  A, D | Move Left/Right |
@@ -23,4 +17,11 @@ You can play the game by clicking [HERE](https://sapienzainteractivegraphicscour
 |  S | Slide |
 |  ESC | Pause |
 
-Alternatively you can use the arrow keys.
+Alternatively you can use the arrow keys to move.
+
+[PLAY IT NOW!](https://sapienzainteractivegraphicscourse.github.io/final-project-lorenzobianchi/)!
+
+## Screenshots:
+
+![Countryside theme]("/assets/images/screenshot_cs.png")
+![City theme]("/assets/images/screenshot_city.png")
